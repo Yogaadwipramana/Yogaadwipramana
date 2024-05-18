@@ -1,7 +1,21 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://yogaadwipramana.io)
 
-<h1 align="center">Hiv<img src="./icons/Hi.gif" width="40" height="40" />, I'm Yoga Dwi Pramana</h1>
+<h1 align="center">Hi 🖐️, I'm Yoga Dwi Pramana</h1>
 <h3 align="center">A passionate Back end developer from Indonesia</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/Yogadwipramana">
+    <img src="https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/yogadwip30">  
+    <img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=fff" />
+  </a>
+  <a href="mailto:yogadwipramana1@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
+    <img src="https://komarev.com/ghpvc/?username=yogaadwipramana&style=for-the-badge" />
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 
 - 🌱 I’m currently learning **Python TensorFlow**
